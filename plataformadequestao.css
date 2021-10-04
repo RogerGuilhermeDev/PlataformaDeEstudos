@@ -1,0 +1,33 @@
+body {
+    background: url("https://s2.static.brasilescola.uol.com.br/be/2021/02/3-mundo-planisferio-politico-a3.jpg");
+    font: normal 10pt Arial;
+}
+
+header {
+color: black;
+text-align: center;
+}
+
+section {
+background: rgba(255, 255, 255, 0.76);
+border-radius: 10px;
+padding: 30px;
+width: 600px;
+margin: auto;
+text-align: center;
+box-shadow: rgb(131, 131, 131) 5px 5px 0px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+p {
+    text-decoration-color: red;
+}
+
+footer {
+text-align: center;
+font-style: italic;
+}
